@@ -1,0 +1,31 @@
+{
+  "company": "TechCorp",
+  "employee_count": 1250,
+  "is_active": true,
+  "headquarters": {
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27601"
+  },
+  "departments": [
+    "Engineering",
+    "Marketing",
+    "Human Resources"
+  ],
+  "employees": [
+    {
+      "id": 101,
+      "name": "Jane Doe",
+      "role": "Software Engineer",
+      "skills": ["JavaScript", "Python", "React"],
+      "remote": true
+    },
+    {
+      "id": 102,
+      "name": "John Smith",
+      "role": "Product Manager",
+      "skills": ["Agile", "Strategy", "UI/UX"],
+      "remote": false
+    }
+  ]
+}
