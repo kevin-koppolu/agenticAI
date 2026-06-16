@@ -8,21 +8,21 @@
     "zip": "27601"
   },
   "departments": [
-    "Engineering",
-    "Marketing",
-    "Human Resources"
+    "General Insurance",
+    "IT",
+    "Data Engineering"
   ],
   "employees": [
     {
       "id": 101,
-      "name": "Jane Doe",
-      "role": "Software Engineer",
-      "skills": ["JavaScript", "Python", "React"],
+      "name": "KVN Babu",
+      "role": "Director",
+      "skills": ["Spark", "Python", "AWS Glue"],
       "remote": true
     },
     {
       "id": 102,
-      "name": "John Smith",
+      "name": "Sanish",
       "role": "Product Manager",
       "skills": ["Agile", "Strategy", "UI/UX"],
       "remote": false
